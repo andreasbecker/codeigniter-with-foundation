@@ -14,7 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://xmas.matrix42.com/';
+$config['base_url']	= 'http://example.com/';
+$config['projectname'] = 'PROJECT NAME';
 
 /*
 |--------------------------------------------------------------------------

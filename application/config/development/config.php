@@ -14,8 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url'] = 'http://xmas.dev/';
-$config['projectname'] = 'Matrix42 Weihnachtsaktion';
+$config['base_url'] = 'http://example.dev/';
 
 /*
 |--------------------------------------------------------------------------

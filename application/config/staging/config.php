@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://xmas.kopfmunter.de/';
+$config['base_url']	= 'http://stage.example.com/';
 
 /*
 |--------------------------------------------------------------------------
