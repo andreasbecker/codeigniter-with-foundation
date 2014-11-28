@@ -18,10 +18,10 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	if($_SERVER['SERVER_NAME'] === 'xmas.matrix42.com') {
+	if($_SERVER['SERVER_NAME'] === 'example.com') {
 		define('ENVIRONMENT', 'production');
 	}
-	elseif($_SERVER['SERVER_NAME'] === 'xmas.kopfmunter.de') {
+	elseif($_SERVER['SERVER_NAME'] === 'stage.example.com') {
 		define('ENVIRONMENT', 'staging');
 	}
 	else  {
